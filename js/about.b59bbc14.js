@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(a,t,n){"use strict";n.r(t);var o=function(){var a=this,t=a.$createElement,o=a._self._c||t;return o("div",{staticClass:"about"},[o("p",[a._v("Tambahannya ini,dihapus!!!")]),o("img",{attrs:{alt:"Vue logo",src:n("cf05")}}),o("HelloWorld",{attrs:{msg:"About"}})],1)},e=[],l=n("fdab"),s={name:"Home",components:{HelloWorld:l["a"]}},u=s,r=n("2877"),c=Object(r["a"])(u,o,e,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=about.b59bbc14.js.map
